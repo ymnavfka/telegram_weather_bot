@@ -19,4 +19,3 @@ class Weather_data(object):
             ).json()
         except:
             await Message.reply("\U00002620 Проверьте название города data \U00002620")
-            
