@@ -40,3 +40,4 @@ class Weather_info_transformation(object):
 
     def get_weather(self):
         return self.output_weather_data
+        
