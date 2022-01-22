@@ -3,3 +3,5 @@
 
 #ignoring tokens
 config.py
+
+__pycache__
